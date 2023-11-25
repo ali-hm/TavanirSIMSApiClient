@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/TestTavanirSimsApi/obj
+/.vs/TavanirSimsApi
+/BehsadSimsApiClient/obj
+/packages/Newtonsoft.Json.13.0.3
+/TestTavanirSimsApi/.vs
+/BehsadSimsApiClient/bin
+/TestTavanirSimsApi/bin

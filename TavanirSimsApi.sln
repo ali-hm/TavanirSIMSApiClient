@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTavanirSimsApi", "TestTavanirSimsApi\TestTavanirSimsApi.csproj", "{9B75B8B4-F6B1-4F28-B5AF-0FEDF7576A82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BehsadSimsApiClient", "BehsadSimsApiClient\BehsadSimsApiClient.csproj", "{78A1DB12-35D4-400D-B453-9776FBB2AE50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B75B8B4-F6B1-4F28-B5AF-0FEDF7576A82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B75B8B4-F6B1-4F28-B5AF-0FEDF7576A82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B75B8B4-F6B1-4F28-B5AF-0FEDF7576A82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B75B8B4-F6B1-4F28-B5AF-0FEDF7576A82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78A1DB12-35D4-400D-B453-9776FBB2AE50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78A1DB12-35D4-400D-B453-9776FBB2AE50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78A1DB12-35D4-400D-B453-9776FBB2AE50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78A1DB12-35D4-400D-B453-9776FBB2AE50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {174C3277-7E13-4107-9456-FB29206903B1}
+	EndGlobalSection
+EndGlobal
